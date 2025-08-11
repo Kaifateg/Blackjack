@@ -1,3 +1,2 @@
-from .logger import logger
-from .Chip import Chip
-from .result import result
+from .Card import Card
+from .Deck import Deck
